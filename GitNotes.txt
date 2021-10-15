@@ -1,0 +1,21 @@
+#setting up the user details
+
+git config --global user.name ""
+git comfig --global user.email ""
+
+
+#basic workflow of the git.
+
+1 git init - to initialize the git in a specific folder
+
+
+2 git status - to check the status of the files modified or not
+
+
+3 git add filename - to push the file to staging area
+
+
+4 git commit -m "Your commit message here" - this command basically takes a snapshot of the file.
+
+
+5 git diff - to compare the present changes with the previous state.
