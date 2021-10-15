@@ -1,0 +1,11 @@
+This the initial file content in text format.
+
+lets add some other text line so that the git can track it using the version control mechanism.
+
+
+In publishing and graphic design, 
+Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. 
+
+adydfadavcbweyfbdn fgwehd fdhfwrv syfbddfywrbzvhzhvsifws jvsvyhyWFVVVWFZCUSWMSHVSJVW SMVSV SVJJS SMVSUJV SVWFHCMVHGWUJFCMVGWFU 
+
+
