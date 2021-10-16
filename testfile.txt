@@ -1,3 +1,0 @@
-This is a test file created for understanding basic git flow
-This is the second line that im adding suckerz.
-Adding the third line.
